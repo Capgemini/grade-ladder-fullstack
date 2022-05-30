@@ -11,9 +11,9 @@ The aim of this document is to help the team understand the difference between t
 - JavaScript [plurasight](https://app.pluralsight.com/paths/skill/javascript-core-language) , [YDKJ](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed) [book](https://www.amazon.co.uk/JavaScript-Definitive-Guide-Guides/dp/0596805527/ref=asc_df_0596805527/?tag=googshopuk-21&linkCode=df0&hvadid=310913487979&hvpos=&hvnetw=g&hvrand=8467159689545982706&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007151&hvtargid=pla-433054820762&psc=1&th=1&psc=1) , [test your knowledge](https://www.testdome.com/questions?sets=public%2Cpremium&sort=none&skills=4-2)
 - TypeScript [plurasight](https://app.pluralsight.com/paths/skill/typescript-core-language)
 - React [pluralsight getting-started](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents) , [udemy-full course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
-- Azure Fundementals [pathway](https://app.pluralsight.com/explore/certifications/topics/azure?trackId=5ac418bd-60e8-480c-8c22-37384d0e528c&examPrepId=eaa6d647-8e90-42e6-a588-46d54639a9d1)
 - NodeJS  [pluralsight getting started](https://www.pluralsight.com/paths/working-with-nodejs) 
  - AWS Cloud Practitioner: (CLF-C01) [pathway](https://degreed.com/pathway/1pnlvmk78n/pathway), [skillbuilder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?dt=tile&tile=fdt), [amazon](https://aws.amazon.com/training/digital/?cta=tctopbanner), [skillbuilder](https://explore.skillbuilder.aws/learn?cta=dt_topbanner), [Pluralsight](https://app.pluralsight.com/library/courses/aws-cloud-practitioner-exam-prep)
+- Azure Fundementals [pathway](https://app.pluralsight.com/explore/certifications/topics/azure?trackId=5ac418bd-60e8-480c-8c22-37384d0e528c&examPrepId=eaa6d647-8e90-42e6-a588-46d54639a9d1)
 
 ### A6
 
