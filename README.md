@@ -1,4 +1,6 @@
-# tech-grade-ladder
+# Experience Engineering Full Stack Grade Ladder
+
+The aim of this document is to help the team understand the difference between the grades.
 
 ## Resources (organise as a table, column grade, row technology)
 - HTML [pluralsight](https://www.pluralsight.com/courses/html-fundamentals)
@@ -32,7 +34,8 @@ Dora add here
   - TDD
   - Jest 
 - Have Basic understanding of React + hooks + react-testing-library or Angular or VueJS
-- Basic knowledge appreciation of Typscript
+- Basic knowledge appreciation of Type
+- script
 - basic knowledge of document structure (mainly json)
 - basic handson on build tools and ci/cd process
 - code debugging and defect fixing
