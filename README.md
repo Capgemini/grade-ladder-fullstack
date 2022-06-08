@@ -9,7 +9,7 @@ The aim of this document is to help the team understand the difference between t
 - CSS [pluralsight Working with Colors and Images in CSS](https://app.pluralsight.com/library/courses/working-colors-images-css/table-of-contents) , [pluralsight Styling Websites with CSS](https://app.pluralsight.com/library/courses/styling-websites-css/table-of-contents) , [w3schools CSS Colors](https://www.w3schools.com/css/css_colors.asp) , [w3schools CSS Backgrounds](https://www.w3schools.com/css/css_background.asp) , [w3schools CSS Borders](https://www.w3schools.com/css/css_border.asp) , [w3schools CSS Margins](https://www.w3schools.com/css/css_margin.asp) , [w3schools CSS Padding](https://www.w3schools.com/css/css_padding.asp) , [w3schools CSS Height, Width and Max-width](https://www.w3schools.com/css/css_dimension.asp), [w3schools CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp), 
 - Accessibility: Testing and Screen Reader Use [pluralsight](https://app.pluralsight.com/library/courses/accessibility-testing-and-screen-reader/table-of-contents)
 - TDD: [Coursera Test-Driven Development Overview](https://www.coursera.org/learn/test-driven-development-overview) , [Coursera A Practical Introduction to Test-Driven Development](https://www.coursera.org/learn/a-practical-introduction-to-test-driven-development)
-- Javascript: [Coursera JavaScript DOM](https://www.javascripttutorial.net/javascript-dom/)
+- Javascript: [JavaScript DOM](https://www.javascripttutorial.net/javascript-dom/)
 
 ### A5
 
