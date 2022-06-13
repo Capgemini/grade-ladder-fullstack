@@ -11,6 +11,18 @@ The aim of this document is to help the team understand the difference between t
 - TDD: [Coursera Test-Driven Development Overview](https://www.coursera.org/learn/test-driven-development-overview) , [Coursera A Practical Introduction to Test-Driven Development](https://www.coursera.org/learn/a-practical-introduction-to-test-driven-development)
 - Javascript: [JavaScript DOM](https://www.javascripttutorial.net/javascript-dom/)
 
+### A3
+
+- HTML [w3schools HTML Entities](https://www.w3schools.com/html/html_entities.asp) , [w3schools HTML Uniform Resource Locators](https://www.w3schools.com/html/html_urlencode.asp) , [w3schools HTML Forms](https://www.w3schools.com/html/html_forms.asp) , [w3schools HTML Form Attributes](https://www.w3schools.com/html/html_forms_attributes.asp) , [w3schools HTML Form Elements](https://www.w3schools.com/html/html_form_elements.asp) , [w3schools HTML Input Types](https://www.w3schools.com/html/html_form_input_types.asp) , [w3schools HTML Input form Attribute](https://www.w3schools.com/html/html_form_attributes_form.asp) , [w3schools HTML Input form Attribute](https://www.w3schools.com/html/html_form_attributes_form.asp)
+
+
+- CSS [w3schools CSS Outline](https://www.w3schools.com/css/css_outline.asp) , [w3schools CSS Outline Width](https://www.w3schools.com/css/css_outline_width.asp) , [w3schools CSS Outline Color](https://www.w3schools.com/css/css_outline_color.asp) , [w3schools CSS Outline Shorthand](https://www.w3schools.com/css/css_outline_shorthand.asp) , [w3schools CSS Outline Offset](https://www.w3schools.com/css/css_outline_offset.asp) , [w3schools The position Property](https://www.w3schools.com/css/css_positioning.asp) , [w3schools The z-index Property](https://www.w3schools.com/css/css_z-index.asp), [w3schools Horizontal & Vertical Align](https://www.w3schools.com/css/css_align.asp) , [css-tricks A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), 
+- Accessibility: Testing and Screen Reader Use [pluralsight](https://app.pluralsight.com/library/courses/accessibility-testing-and-screen-reader/table-of-contents)
+- Bootstrap: [Coursera Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4/home/welcome)
+- React: [Udemy Modern React with Redux](https://www.udemy.com/course/react-redux/)
+
+- Algorithms and Data structures: [Udemy JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) ,  [freecodecamp Data Structures in JavaScript – With Code Examples](https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/#:~:text=In%20JavaScript%2C%20an%20object%20is,table%20in%20other%20programming%20languages.&text=We%20use%20curly%20braces%20to,colon%2C%20and%20the%20corresponding%20value.)
+
 ### A5
 
 - HTML [pluralsight](https://www.pluralsight.com/courses/html-fundamentals)
