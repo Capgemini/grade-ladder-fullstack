@@ -3,6 +3,20 @@
 The aim of this document is to help the team understand the difference between the grades.
 
 ## Resources
+
+
+Doing by grade is extremely complicate to mantain... I suggest to reorganise by:
+- subject:
+   - level
+     - beginner
+     - intermidiate
+     - advanced
+example:
+- Javascript:
+    - beginner: [JavaScript DOM](https://www.javascripttutorial.net/javascript-dom/)
+    - intermidiate: [plurasight](https://app.pluralsight.com/paths/skill/javascript-core-language)
+    - advanced: [book](https://www.amazon.co.uk/JavaScript-Definitive-Guide-Guides/dp/0596805527/ref=asc_df_0596805527/?tag=googshopuk-21&linkCode=df0&hvadid=310913487979&hvpos=&hvnetw=g&hvrand=8467159689545982706&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007151&hvtargid=pla-433054820762&psc=1&th=1&psc=1)
+
 ### A2
 
 - HTML [pluralsight HTML Fundamentals](https://app.pluralsight.com/library/courses/html-fundamentals/table-of-contents) , [pluralsight Semantic HTML](https://app.pluralsight.com/library/courses/semantic-html-2329/table-of-contents)
