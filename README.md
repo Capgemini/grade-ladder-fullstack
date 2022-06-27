@@ -39,6 +39,15 @@ example:
 - React: [Udemy Modern React with Redux](https://www.udemy.com/course/react-redux/)
 - TDD: [Coursera Integrating Test-Driven Development into Your Workflow](https://www.coursera.org/learn/test-driven-development-workflow/home/welcome)
 
+
+### A4
+
+- HTML [pluralsight](https://www.pluralsight.com/courses/html-fundamentals)
+- CSS [w3schools CSS Rounded Corners](https://www.w3schools.com/css/css3_borders.asp) , [CSS Gradients](https://www.w3schools.com/css/css3_gradients.asp), [CSS Shadow Effects](https://www.w3schools.com/css/css3_shadows.asp), [CSS 2D Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp) , [CSS 3D Transforms](https://www.w3schools.com/css/css3_3dtransforms.asp) , [CSS Transitions](https://www.w3schools.com/css/css3_transitions.asp) , [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- Javascript [w3schools Function apply](https://www.w3schools.com/js/js_function_apply.asp) , [w3schools Function bind](https://www.w3schools.com/js/js_function_bind.asp) , [w3schools Closures](https://www.w3schools.com/js/js_function_closures.asp) , [w3schools Classes](https://www.w3schools.com/js/js_class_intro.asp) , [w3schools Inheritance](https://www.w3schools.com/js/js_class_inheritance.asp)  , [w3schools Static Methods](https://www.w3schools.com/js/js_class_static.asp)   , [w3schools Callbacks](https://www.w3schools.com/js/js_callback.asp) , [w3schools Asynchronous JavaScript](https://www.w3schools.com/js/js_asynchronous.asp)  , [w3schools Promises](https://www.w3schools.com/js/js_promise.asp)  , [w3schools Async](https://www.w3schools.com/js/js_async.asp)
+- React: [Udemy Modern React with Redux](https://www.udemy.com/course/react-redux/)
+- TDD: [React Testing with Jest and Enzyme](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/)
+- Nodejs: [Udemy NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/)
 ### A5
 
 - HTML [pluralsight](https://www.pluralsight.com/courses/html-fundamentals)
