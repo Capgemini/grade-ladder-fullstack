@@ -1,6 +1,6 @@
 # Experience Engineering Full Stack Grade Ladder
 
-The aim of this document is to help the team understand the different technical skills that each developer need to have based on his grade. This grade ladder will not replace the[existing one](https://capgemini.github.io/grade-ladder/) but will enhance it focusing mainly on the **Technical skills**
+The aim of this document is to help the team understand the different technical skills that each developer need to have based on his grade. This grade ladder will not replace the [existing one](https://capgemini.github.io/grade-ladder/) but will enhance it focusing mainly on the **Technical skills**
 
 ## Grade:
 - [A2 - Software Engineer Level 2](https://github.com/Capgemini/grade-ladder-fullstack/blob/main/A2.md)
