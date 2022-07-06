@@ -11,4 +11,4 @@ The aim of this document is to help the team understand the different technical 
 - [A7](https://github.com/Capgemini/grade-ladder-fullstack/blob/main/A7.md)
 
 ## Resources:
-(Here)[https://github.com/Capgemini/grade-ladder-fullstack/blob/main/resources.md] a list of resources we found usefull 
+[Here](https://github.com/Capgemini/grade-ladder-fullstack/blob/main/resources.md) a list of resources we found usefull 
