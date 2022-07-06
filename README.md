@@ -3,16 +3,6 @@
 The aim of this document is to help the team understand the difference between the grades.
 
 ## Resources
-
-
-Doing by grade is extremely complicate to mantain... I suggest to reorganise by:
-- subject:
-   - level
-     - beginner
-     - intermediate
-     - advanced
-
-
 - HTML:
     - beginner: [pluralsight HTML Fundamentals](https://app.pluralsight.com/library/courses/html-fundamentals/table-of-contents) , [pluralsight Semantic HTML](https://app.pluralsight.com/library/courses/semantic-html-2329/table-of-contents)
 
