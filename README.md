@@ -23,5 +23,5 @@ If you'd like to add more resources, please let us know, or create a pull reques
 * Nikki Algar
 * Abdishakor Saeed
 * Elamin Fadlalla
-* Dora Chatzinaka
+* Isaac Babalola
 * Malcolm Young
