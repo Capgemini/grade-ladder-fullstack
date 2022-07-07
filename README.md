@@ -1,6 +1,8 @@
 # Experience Engineering Full Stack Grade Ladder
 
-The aim of this document is to help the team understand the different technical skills that each developer need to have based on his grade. This grade ladder will not replace the [existing one](https://capgemini.github.io/grade-ladder/) but will enhance it focusing mainly on the **Technical skills**
+The aim of this document is to help the team understand the different technical skills that each developer needs to have at each grade. 
+
+This grade ladder will not replace the [existing one](https://capgemini.github.io/grade-ladder/) but will enhance it, focusing mainly on the **technical skills** for a full stack JavaScript developer.
 
 ## Grade:
 - [A2 - Software Engineer Level 2](https://github.com/Capgemini/grade-ladder-fullstack/blob/main/A2.md)
@@ -11,4 +13,15 @@ The aim of this document is to help the team understand the different technical 
 - [A7 - Software Engineer Level 7](https://github.com/Capgemini/grade-ladder-fullstack/blob/main/A7.md)
 
 ## Resources:
-[Here](https://github.com/Capgemini/grade-ladder-fullstack/blob/main/resources.md) a list of resources we found useful 
+We have collated [a list of learning resources we have found useful](https://github.com/Capgemini/grade-ladder-fullstack/blob/main/resources.md).
+
+If you'd like to add more resources, please let us know, or create a pull request.
+
+## Maintainers
+
+* Daniele Zurico
+* Nikki Algar
+* Abdishakor Saeed
+* Elamin Fadlalla
+* Dora Chatzinaka
+* Malcolm Young
